@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Werkman met gereedschap">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<g transform="translate(160,165) scale(1.0)">
+<circle cx="0" cy="-42" r="16" fill="#3d6f9e"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#3d6f9e"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#3d6f9e"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#3d6f9e"/>
+</g>
+<circle cx="235" cy="150" r="18" fill="none" stroke="#1c2b3a" stroke-width="8"/>
+<rect x="235" y="165" width="8" height="40" fill="#1c2b3a"/>
+<rect x="222" y="200" width="34" height="10" rx="3" fill="#1c2b3a"/>
+
+</svg>

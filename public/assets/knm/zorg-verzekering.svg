@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Schild met hart">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<path d="M200 70 L280 95 V170 Q280 225 200 250 Q120 225 120 170 V95 Z" fill="#0f4c81"/>
+<path d="M 200 181.0 C 177.6 158.6 187.2 142.6 200 155.4 C 212.8 142.6 222.4 158.6 200 181.0 Z" fill="#fff"/>
+
+</svg>

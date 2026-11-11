@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Doctorse hoed">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<path d="M120 150 L200 110 L280 150 L200 190 Z" fill="#1c2b3a"/>
+<path d="M150 165 L150 205 Q200 225 250 205 L250 165" fill="#1c2b3a"/>
+<line x1="270" y1="152" x2="270" y2="195" stroke="#ffde17" stroke-width="4"/>
+<circle cx="270" cy="198" r="6" fill="#ffde17"/>
+
+</svg>

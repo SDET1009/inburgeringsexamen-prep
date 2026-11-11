@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Apotheek met kruis">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<g>
+<rect x="115.0" y="132" width="170" height="100" fill="#fff"/>
+<rect x="149.0" y="177.0" width="102.0" height="18.0" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="149.0" y="204.0" width="102.0" height="18.0" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="186" y="198" width="28" height="34" rx="3" fill="#8aa0b4"/>
+</g>
+<g><rect x="192.0" y="68" width="16" height="48" fill="#e3001b"/><rect x="168" y="92.0" height="16" width="48" fill="#e3001b"/></g>
+<rect x="150" y="190" width="100" height="42" rx="4" fill="#bfd9ef"/>
+
+</svg>

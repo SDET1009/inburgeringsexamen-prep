@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Weg met drie afslagen">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<path d="M190 240 L190 170 Q190 150 210 140 L300 90" fill="none" stroke="#1c2b3a" stroke-width="14" stroke-linecap="round"/>
+<path d="M190 170 Q190 150 170 140 L80 90" fill="none" stroke="#1c2b3a" stroke-width="14" stroke-linecap="round"/>
+<path d="M190 240 L190 90" fill="none" stroke="#1c2b3a" stroke-width="14" stroke-linecap="round"/>
+<circle cx="80" cy="90" r="8" fill="#1a7f37"/><circle cx="190" cy="80" r="8" fill="#e3001b"/><circle cx="300" cy="90" r="8" fill="#0f4c81"/>
+
+</svg>

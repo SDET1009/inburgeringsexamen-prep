@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Schoolgebouw met kind">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<g>
+<rect x="95.0" y="132" width="150" height="100" fill="#fff"/>
+<rect x="125.0" y="177.0" width="90.0" height="18.0" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="125.0" y="204.0" width="90.0" height="18.0" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="156" y="198" width="28" height="34" rx="3" fill="#0f4c81"/>
+</g>
+<g transform="translate(300,222) scale(0.75)">
+<circle cx="0" cy="-42" r="16" fill="#e3001b"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#e3001b"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#e3001b"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#e3001b"/>
+</g>
+<rect x="150" y="120" width="40" height="20" rx="3" fill="#ffde17"/>
+
+</svg>

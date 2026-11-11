@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Sleutel">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<circle cx="150" cy="150" r="28" fill="none" stroke="#1c2b3a" stroke-width="12"/>
+<rect x="175" y="144" width="120" height="12" rx="4" fill="#1c2b3a"/>
+<rect x="255" y="150" width="12" height="24" fill="#1c2b3a"/>
+<rect x="275" y="150" width="12" height="18" fill="#1c2b3a"/>
+
+</svg>

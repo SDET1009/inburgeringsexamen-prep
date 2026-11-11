@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Kroon">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<path d="M120 180 L130 110 L165 150 L200 100 L235 150 L270 110 L280 180 Z" fill="#ffde17" stroke="#1c2b3a" stroke-width="4"/>
+<rect x="120" y="180" width="160" height="22" rx="6" fill="#ffde17" stroke="#1c2b3a" stroke-width="4"/>
+<circle cx="130" cy="102" r="8" fill="#0f4c81"/><circle cx="200" cy="92" r="8" fill="#e3001b"/><circle cx="270" cy="102" r="8" fill="#0f4c81"/>
+
+</svg>

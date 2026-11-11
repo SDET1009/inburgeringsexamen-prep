@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Stemhokje met stembus">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<rect x="140" y="100" width="120" height="130" rx="8" fill="#0f4c81"/>
+<rect x="156" y="116" width="88" height="70" rx="4" fill="#fff"/>
+<rect x="250" y="150" width="70" height="80" rx="6" fill="#1c2b3a"/>
+<rect x="266" y="140" width="38" height="12" fill="#e3001b"/>
+<rect x="270" y="152" width="30" height="8" rx="3" fill="#fff"/>
+<circle cx="285" cy="196" r="10" fill="#ffde17"/>
+
+</svg>

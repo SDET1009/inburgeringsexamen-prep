@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Vrouw met schild">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<g transform="translate(160,165) scale(1.1)">
+<circle cx="0" cy="-42" r="16" fill="#e3001b"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#e3001b"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#e3001b"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#e3001b"/>
+</g>
+<path d="M250 100 L310 120 V180 Q310 225 250 245 Q190 225 190 180 V120 Z" fill="#0f4c81"/>
+<path d="M250 130 c -20 -6 -10 -28 0 -12 c 10 -16 20 6 0 12 z" fill="#fff"/>
+<circle cx="250" cy="185" r="16" fill="#fff"/>
+
+</svg>
