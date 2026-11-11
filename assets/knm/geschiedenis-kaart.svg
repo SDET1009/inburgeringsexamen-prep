@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Kaart van Nederland">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<path d="M150 80 L210 70 L240 100 L235 150 L260 190 L230 230 L170 240 L140 200 L130 140 Z" fill="#ffde17" stroke="#1c2b3a" stroke-width="3"/>
+<circle cx="200" cy="150" r="8" fill="#e3001b"/>
+<text x="200" y="138" font-family="Arial" font-size="14" fill="#1c2b3a" text-anchor="middle">NL</text>
+
+</svg>

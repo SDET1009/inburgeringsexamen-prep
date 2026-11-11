@@ -1,0 +1,20 @@
+# Inburgeren Oefenen
+
+Gratis oefenmateriaal voor het inburgeringsexamen en de B1-NT2-route in Nederland. Unofficial study material — not an official exam.
+
+## Pages
+
+- [Home: kies jouw examen (beslisboom)](https://SDET1009.github.io/inburgeringsexamen-prep/#/)
+- [KNM oefening](https://SDET1009.github.io/inburgeringsexamen-prep/#/knm): 40 meerkeuzevragen over 8 onderwerpen; 3 oefenmodi (enkele vraag, per onderwerp, simulatie 40 min) met voorlezen, uitleg en per-onderwerp statistieken
+- [A1 buiten Nederland](https://SDET1009.github.io/inburgeringsexamen-prep/#/a1): Basisexamen Inburgering Buitenland (KNS + Lezen + Spreken)
+- [A2 in Nederland](https://SDET1009.github.io/inburgeringsexamen-prep/#/a2): Inburgeringsexamen A2 (5 delen)
+- [B1 NT2](https://SDET1009.github.io/inburgeringsexamen-prep/#/b1): Staatsexamen NT2 Programma I + KNM
+- [Bronnen](https://SDET1009.github.io/inburgeringsexamen-prep/#/bronnen): officiële en externe (betaalde) studie- en oefenbronnen
+- [Examendata](https://SDET1009.github.io/inburgeringsexamen-prep/#/examen-data): historische NT2-ruwceuren (CvTE) en kenmerken van het echte examen
+
+## Official sources linked from this site
+
+- inburgeren.nl (DUO/Ministerie van I&W) — officiële informatie en gratis officiële oefenexamens
+- staatsexamensnt2.nl (CvTE) — NT2-examens, woordlijsten
+- naarnederland.nl (Nederland Wereldwijd) — officiële studiewijzer A1 in het buitenland
+- oefenexamensnt2.nl — officiële NT2-oefenomgeving (échte examensystemen)

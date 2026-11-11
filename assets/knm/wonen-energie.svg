@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Huis met bliksemschicht">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<rect x="140" y="150" width="120" height="80" fill="#fff" stroke="#8aa0b4" stroke-width="3"/>
+<path d="M125 155 L200 100 L275 155 Z" fill="#0f4c81"/>
+<path d="M205 95 L185 130 L200 130 L190 160 L225 122 L208 122 L218 95 Z" fill="#ffde17" stroke="#1c2b3a" stroke-width="2"/>
+
+</svg>

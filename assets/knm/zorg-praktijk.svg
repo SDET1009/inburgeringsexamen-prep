@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Praktijk met verpleegkundige">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<g>
+<rect x="95.0" y="142" width="130" height="90" fill="#fff"/>
+<rect x="121.0" y="182.5" width="78.0" height="16.2" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="121.0" y="206.8" width="78.0" height="16.2" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="146" y="198" width="28" height="34" rx="3" fill="#0f4c81"/>
+</g>
+<g transform="translate(285,218) scale(0.85)">
+<circle cx="0" cy="-42" r="16" fill="#1a7f37"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#1a7f37"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#1a7f37"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#1a7f37"/>
+</g>
+<circle cx="285" cy="168" r="14" fill="#f2c9a8"/>
+<rect x="271" y="158" width="28" height="8" rx="4" fill="#1a7f37"/>
+<g><rect x="282.0" y="140" width="6" height="18" fill="#e3001b"/><rect x="273" y="149.0" height="6" width="18" fill="#e3001b"/></g>
+
+</svg>

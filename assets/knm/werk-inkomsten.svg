@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Enveloppe met euroteken">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<rect x="110" y="110" width="180" height="110" rx="10" fill="#fff" stroke="#8aa0b4" stroke-width="3"/>
+<path d="M110 118 L200 178 L290 118" fill="none" stroke="#8aa0b4" stroke-width="3"/>
+<circle cx="200" cy="160" r="30" fill="#ffde17"/>
+<text x="200" y="172" font-family="Arial" font-size="38" font-weight="bold" fill="#1c2b3a" text-anchor="middle">€</text>
+
+</svg>

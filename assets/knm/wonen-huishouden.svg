@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Gezin voor een huis">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<g>
+<rect x="125.0" y="137" width="150" height="95" fill="#8aa0b4"/>
+<rect x="155.0" y="179.75" width="90.0" height="17.099999999999998" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="155.0" y="205.4" width="90.0" height="17.099999999999998" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="186" y="198" width="28" height="34" rx="3" fill="#fff"/>
+</g>
+<g transform="translate(95,218) scale(0.8)">
+<circle cx="0" cy="-42" r="16" fill="#e3001b"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#e3001b"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#e3001b"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#e3001b"/>
+</g>
+<g transform="translate(305,218) scale(0.8)">
+<circle cx="0" cy="-42" r="16" fill="#0f4c81"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#0f4c81"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#0f4c81"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#0f4c81"/>
+</g>
+<g transform="translate(200,226) scale(0.6)">
+<circle cx="0" cy="-42" r="16" fill="#1a7f37"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#1a7f37"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#1a7f37"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#1a7f37"/>
+</g>
+
+</svg>

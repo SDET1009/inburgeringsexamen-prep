@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="UWV met koffer">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<g>
+<rect x="110.0" y="127" width="180" height="105" fill="#0f4c81"/>
+<rect x="146.0" y="174.25" width="108.0" height="18.9" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="146.0" y="202.6" width="108.0" height="18.9" rx="4" fill="#fff" opacity="0.85"/>
+<rect x="186" y="198" width="28" height="34" rx="3" fill="#fff"/>
+</g>
+<rect x="178" y="112" width="44" height="22" rx="4" fill="#fff"/>
+<path d="M188 112 v-6 a6 6 0 0 1 6-6 h12 a6 6 0 0 1 6 6 v6" fill="none" stroke="#fff" stroke-width="4"/>
+
+</svg>

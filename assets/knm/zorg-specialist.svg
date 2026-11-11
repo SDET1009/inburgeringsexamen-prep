@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Ziekenhuis met kruis">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<rect x="120" y="70" width="160" height="162" fill="#fff" stroke="#8aa0b4" stroke-width="3"/>
+<g><rect x="192.5" y="75" width="15" height="45" fill="#e3001b"/><rect x="170" y="97.5" height="15" width="45" fill="#e3001b"/></g>
+<rect x="185" y="185" width="30" height="47" rx="3" fill="#0f4c81"/>
+<rect x="140" y="130" width="30" height="24" rx="3" fill="#bfd9ef"/>
+<rect x="230" y="130" width="30" height="24" rx="3" fill="#bfd9ef"/>
+<rect x="140" y="168" width="30" height="24" rx="3" fill="#bfd9ef"/>
+<rect x="230" y="168" width="30" height="24" rx="3" fill="#bfd9ef"/>
+
+</svg>

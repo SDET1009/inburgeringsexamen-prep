@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Boek met appel">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<path d="M120 130 Q200 110 200 130 Q200 110 280 130 L280 210 Q200 190 200 210 Q200 190 120 210 Z" fill="#fff" stroke="#8aa0b4" stroke-width="3"/>
+<circle cx="200" cy="105" r="20" fill="#e3001b"/>
+<path d="M200 85 Q205 75 212 72" fill="none" stroke="#1a7f37" stroke-width="4"/>
+
+</svg>

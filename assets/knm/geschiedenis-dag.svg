@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Kalender met 4 mei">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<rect x="120" y="90" width="160" height="140" rx="12" fill="#fff" stroke="#8aa0b4" stroke-width="3"/>
+<rect x="120" y="90" width="160" height="40" rx="12" fill="#e3001b"/>
+<rect x="120" y="118" width="160" height="12" fill="#e3001b"/>
+<text x="200" y="122" font-family="Arial" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle">mei</text>
+<circle cx="230" cy="180" r="26" fill="#ffde17"/>
+<text x="230" y="190" font-family="Arial" font-size="28" font-weight="bold" fill="#1c2b3a" text-anchor="middle">4</text>
+
+</svg>

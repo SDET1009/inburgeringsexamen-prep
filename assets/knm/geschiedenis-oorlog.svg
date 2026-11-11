@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Nederlandse vlag met klok">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<line x1="150" y1="70" x2="150" y2="235" stroke="#1c2b3a" stroke-width="8"/>
+<rect x="150" y="80" width="140" height="86" fill="#fff" stroke="#8aa0b4" stroke-width="2"/>
+<rect x="150" y="80" width="46" height="86" fill="#0f4c81"/>
+<rect x="196" y="80" width="46" height="86" fill="#e3001b"/>
+<circle cx="200" cy="123" r="16" fill="none" stroke="#1c2b3a" stroke-width="3"/>
+<line x1="200" y1="123" x2="200" y2="111" stroke="#1c2b3a" stroke-width="3"/>
+<line x1="200" y1="123" x2="209" y2="127" stroke="#1c2b3a" stroke-width="3"/>
+
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Twee personen met gespreksballonnetjes">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<g transform="translate(120,165) scale(0.95)">
+<circle cx="0" cy="-42" r="16" fill="#0f4c81"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#0f4c81"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#0f4c81"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#0f4c81"/>
+</g>
+<g transform="translate(280,165) scale(0.95)">
+<circle cx="0" cy="-42" r="16" fill="#e3001b"/>
+<rect x="-16" y="-28" width="32" height="44" rx="14" fill="#e3001b"/>
+<rect x="-12" y="14" width="10" height="24" rx="5" fill="#e3001b"/>
+<rect x="2" y="14" width="10" height="24" rx="5" fill="#e3001b"/>
+</g>
+<g><path d="M 110 85 h 52 a 8 8 0 0 1 8 8 v 26 a 8 8 0 0 1 -8 8 h -30 l -10 12 v -12 h -12 a 8 8 0 0 1 -8 -8 v -26 a 8 8 0 0 1 8 -8 z" fill="#fff" stroke="#0f4c81" stroke-width="2"/><circle cx="126" cy="103" r="3" fill="#0f4c81"/><circle cx="138" cy="103" r="3" fill="#0f4c81"/><circle cx="150" cy="103" r="3" fill="#0f4c81"/></g>
+<g><path d="M 235 85 h 52 a 8 8 0 0 1 8 8 v 26 a 8 8 0 0 1 -8 8 h -30 l -10 12 v -12 h -12 a 8 8 0 0 1 -8 -8 v -26 a 8 8 0 0 1 8 -8 z" fill="#fff" stroke="#0f4c81" stroke-width="2"/><circle cx="251" cy="103" r="3" fill="#0f4c81"/><circle cx="263" cy="103" r="3" fill="#0f4c81"/><circle cx="275" cy="103" r="3" fill="#0f4c81"/></g>
+
+</svg>

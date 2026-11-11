@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Dijk en water">
+<rect width="400" height="300" fill="#eef3f8"/>
+<rect x="0" y="230" width="400" height="70" fill="#dfe8ef"/>
+
+<path d="M0 210 Q50 195 100 210 T200 210 T300 210 T400 210 V300 H0 Z" fill="#4d7bb5"/>
+<path d="M0 225 Q50 210 100 225 T200 225 T300 225 T400 225" fill="none" stroke="#7fa8d4" stroke-width="4"/>
+<rect x="0" y="185" width="400" height="22" fill="#8a7a5c"/>
+<rect x="0" y="180" width="400" height="6" fill="#a08d6b"/>
+
+</svg>
