@@ -10,6 +10,7 @@ export const en: Dict = {
   nav: {
     home: "Home",
     knm: "KNM practice",
+    woorden: "Words",
     a1: "A1 (abroad)",
     a2: "A2 (in the Netherlands)",
     b1: "B1 (NT2)",

@@ -5,6 +5,7 @@ import { useI18n } from "../i18n"
 const links = [
   { to: "/", key: "home" },
   { to: "/knm", key: "knm" },
+  { to: "/woorden", key: "woorden" },
   { to: "/a1", key: "a1" },
   { to: "/a2", key: "a2" },
   { to: "/b1", key: "b1" },

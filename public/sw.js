@@ -1,21 +1,28 @@
-/* Inburgeren Oefenen – service worker (app-shell cache, cache-first).
-   Keeps the practice pages usable offline; always revalidates the shell. */
-const CACHE = "io-shell-v1"
+/* Inburgeren Oefenen – service worker.
+   Shell/navigation: network-first (so deploys appear immediately, offline still works).
+   Static assets: cache-first (JS/CSS are content-hashed; bump CACHE for svg changes). */
+const CACHE = "io-shell-v2"
 const SHELL = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./assets/knm/werk-bureau.svg",
-  "./assets/knm/zorg-huisarts.svg",
-  "./assets/knm/wonen-huis.svg",
-  "./assets/knm/instanties-gezin.svg",
 ]
+const KNM_SVG = [
+  "geschiedenis-dag","geschiedenis-kaart","geschiedenis-oorlog","geschiedenis-water",
+  "instanties-belasting","instanties-digid","instanties-gezin","instanties-ind","instanties-oude","instanties-svb","instanties-uwv",
+  "omgang-hand","omgang-klok","omgang-rang","omgang-vrouw",
+  "onderwijs-basisschool","onderwijs-duo","onderwijs-routes","onderwijs-school",
+  "staats-kamer","staats-keur","staats-kieshok","staats-koning",
+  "werk-bureau","werk-inkomsten","werk-saar","werk-schade",
+  "wonen-energie","wonen-huis","wonen-huishouden","wonen-sleutel",
+  "zorg-alarm","zorg-apotheek","zorg-huisarts","zorg-praktijk","zorg-specialist","zorg-tolk","zorg-verzekering",
+].map((n) => `./assets/knm/${n}.svg`)
 
 self.addEventListener("install", (e) => {
   e.waitUntil(
     caches
       .open(CACHE)
-      .then((c) => c.addAll(SHELL))
+      .then((c) => c.addAll([...SHELL, ...KNM_SVG]))
       .then(() => self.skipWaiting())
   )
 })
@@ -35,6 +42,23 @@ self.addEventListener("fetch", (e) => {
   const url = new URL(req.url)
   if (url.origin !== self.location.origin) return
 
+  const isNavigation = req.mode === "navigate" || url.pathname.endsWith("/index.html")
+
+  if (isNavigation) {
+    // network-first so users always get fresh deploys when online
+    e.respondWith(
+      fetch(req)
+        .then((res) => {
+          const clone = res.clone()
+          caches.open(CACHE).then((c) => c.put(req, clone))
+          return res
+        })
+        .catch(() => caches.match(req, { ignoreSearch: true }).then((hit) => hit || caches.match("./index.html")))
+    )
+    return
+  }
+
+  // static: cache-first, revalidate in background
   e.respondWith(
     caches.match(req, { ignoreSearch: true }).then((hit) => {
       const fetchPromise = fetch(req)

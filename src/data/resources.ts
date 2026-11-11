@@ -48,7 +48,7 @@ export const resources: Resource[] = [
     name: "Inburgeringsexamen doen (inburgeren.nl)",
     url: "https://www.inburgeren.nl/examen-doen/",
     official: true, paid: false,
-    nl: "Uitleg van de drie routes, PIP, 'in welke gevallen kun je minder of geen examens doen' en de prijzens.",
+    nl: "Uitleg van de drie routes, PIP, 'in welke gevallen kun je minder of geen examens doen' en de prijzen.",
     en: "Explanation of the three routes, the PIP, 'in which cases you can take fewer or no exams' and the prices.",
   },
   {
@@ -57,6 +57,20 @@ export const resources: Resource[] = [
     official: true, paid: false,
     nl: "Per land: waar je het A1-examen doet en wat het kost (ca. €140–220).",
     en: "Per country: where you take the A1 exam and what it costs (approx. €140–220).",
+  },
+  {
+    name: "KNS oefenexamen A1 buitenland (DUO)",
+    url: "https://www.oefenexamensduo.nl/",
+    official: true, paid: false,
+    nl: "Het officiële, gratis oefenplatform voor de KNS van het A1-examen in het buitenland (30 foto-vragen; 21/30 = geslaagd).",
+    en: "The official free practice portal for the KNS of the A1 exam abroad (30 photo questions; 21/30 = passed).",
+  },
+  {
+    name: "CvTE – woordenlijsten NT2 (officiële PDF's)",
+    url: "https://www.staatsexamensnt2.nl/documenten",
+    official: true, paid: false,
+    nl: "De officiële woordenlijsten voor NT2 Programma I/II, inclusief de aanvullende woordenlijst (bijgewerkt 1 november 2026).",
+    en: "The official word lists for NT2 Programme I/II, including the supplementary list (updated 1 November 2026).",
   },
   // ── External (unofficial) ─────────────────────────────────────────
   {
@@ -91,7 +105,7 @@ export const resources: Resource[] = [
     name: "Inburgering.org",
     url: "https://inburgering.org/",
     official: false, paid: false,
-    nl: "Gratis getijdelijke KNM-simulaties (2×), KNM-samenvattingen en A1/A2-routegidsen.",
+    nl: "Gratis getimede KNM-simulaties (2×), KNM-samenvattingen en A1/A2-routegidsen.",
     en: "Free timed KNM simulations (2×), KNM summaries and A1/A2 route guides.",
   },
   {

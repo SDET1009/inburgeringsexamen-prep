@@ -8,6 +8,7 @@ export const nl = {
   nav: {
     home: "Home",
     knm: "KNM oefenen",
+    woorden: "Woorden",
     a1: "A1 (buitenland)",
     a2: "A2 (in Nederland)",
     b1: "B1 (NT2)",

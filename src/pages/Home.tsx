@@ -103,6 +103,18 @@ export default function Home() {
         </div>
       </section>
 
+      {/* M2 practice quick links */}
+      <section className="mt-8" aria-labelledby="practice-h">
+        <h2 id="practice-h" className="text-xl font-bold">
+          {lang === "nl" ? "Direct oefenen" : "Start practising now"}
+        </h2>
+        <div className="mt-3 grid gap-3 sm:grid-cols-3">
+          <Card to="/woorden" title={lang === "nl" ? "📇 Woorden van vandaag" : "📇 Today's words"} body={lang === "nl" ? "354 A1-woorden met slimmere herhaling (SRS), dagdoel en reeks — offline bruikbaar." : "354 A1 words with spaced repetition, daily goal and streak — works offline."} />
+          <Card to="/oefenen-a2" title={lang === "nl" ? "🎧 A2: officieel + trainers" : "🎧 A2: official + trainers"} body={lang === "nl" ? "De 12 officiële DUO-sets en 3 Schrijven-PDF's, plus onze Lezen/Luisteren/Spreken-trainers." : "The 12 official DUO sets and 3 writing PDFs, plus our reading/listening/speaking trainers."} />
+          <Card to="/kns" title={lang === "nl" ? "🌍 KNS (A1 buitenland)" : "🌍 KNS (A1 abroad)"} body={lang === "nl" ? "30 foto-vragen, twee keuzes, 30 minuten — zoals het echte examen; 21/30 richtlijn." : "30 photo questions, two options, 30 minutes — like the real exam; guideline 21/30."} />
+        </div>
+      </section>
+
       {/* KNM teaser */}
       <section className="mt-8 rounded-2xl border-2 border-dashed border-nl-blue/50 bg-blue-50/40 p-5 sm:p-6">
         <div className="flex flex-wrap items-center gap-4">

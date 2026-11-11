@@ -221,10 +221,28 @@ export default function RoutePage({ route }: { route: RouteKey }) {
         </a>
       </div>
 
+      {(route === "a1" || route === "a2") && (
+        <p className="mt-3 text-sm">
+          <a href={route === "a1" ? "#/kns" : "#/oefenen-a2"} className="font-semibold text-nl-blue underline underline-offset-2">
+            → {route === "a1"
+              ? (lang === "nl" ? "KNS oefenen (A1) op deze site" : "Practice KNS (A1) on this site")
+              : (lang === "nl" ? "Officiële sets + Lezen/Luisteren/Spreken-trainers op deze site" : "Official sets + Reading/Listening/Speaking trainers on this site")}
+          </a>
+          {" · "}
+          <a href="#/woorden" className="font-semibold text-nl-blue underline underline-offset-2">
+            {lang === "nl" ? "Dagelijkse woorden (SRS)" : "Daily words (SRS)"}
+          </a>
+        </p>
+      )}
+
       {route === "b1" && (
         <p className="mt-3 text-sm">
           <a href="#/examen-data" className="font-semibold text-nl-blue underline underline-offset-2">
             → {lang === "nl" ? "Historische examendata & ceuurs NT2" : "Historical exam data & NT2 pass lines"}
+          </a>
+          {" · "}
+          <a href="#/woorden" className="font-semibold text-nl-blue underline underline-offset-2">
+            {lang === "nl" ? "Dagelijkse woorden (SRS)" : "Daily words (SRS)"}
           </a>
         </p>
       )}
